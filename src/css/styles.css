@@ -18,3 +18,22 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+ul {
+  list-style: none;
+}
+
+h1,
+h2 {
+  display: inline-block;
+}
+h2 {
+  font-size: 20px;
+}
+span {
+  font-size: 18px; 
+}
+.country-info {
+  display: flex;
+  flex-direction: column;
+}
